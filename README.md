@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ozoneRatchapon/ozoneRatchapon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+Hi there 🙂<br> 
+/<br>
+I'm Ozone, Nice to meet you! 🤝<br>.<br>
+🌱 I’m currently learning - RUST🦀 - SOLANA - <a href="https://github.com/Green-Software-Foundation" target="blank">Green Software</a><br> 
+🫡 Please take care of me
+</div>
