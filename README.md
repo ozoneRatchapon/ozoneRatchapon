@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
 Hi there 🙂<br> 
 /<br>
-I'm Ozone, Nice to meet you! 🤝<br>.<br>
-🌱 I’m currently learning - RUST🦀 - SOLANA - <a href="https://github.com/Green-Software-Foundation" target="blank">Green Software</a><br> 
+I'm Ozone. Nice to meet you! 🤝<br>.<br>
+🌱 I’m currently learning - RUST🦀 - SOLANA - <a href="https://github.com/Green-Software-Foundation" target="blank">Green Software</a> - AI <br> 
 🫡 Please take care of me
 </div>
